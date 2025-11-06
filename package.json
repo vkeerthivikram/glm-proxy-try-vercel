@@ -1,0 +1,12 @@
+{
+  "name": "glm-proxy",
+  "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "next": "^14.2.3",
+    "react": "^18.2.0",a
+    "react-dom": "^18.2.0"
+  }
+}
