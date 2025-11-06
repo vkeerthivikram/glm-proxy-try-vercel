@@ -30,7 +30,7 @@ export async function POST(request) {
     }
 
     const response = await fetch(
-      "https://api.z.ai/api/paas/v4/chat/completions",
+      "https://api.z.ai/api/coding/paas/v4/chat/completions",
       {
         method: "POST",
         headers: {
