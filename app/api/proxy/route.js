@@ -19,7 +19,7 @@ export async function GET(request) {
       object: "list",
       data: [
         {
-          id: "glm-4.6",
+          id: "glm-4.7",
           object: "model",
           created: 1677610602,
           owned_by: "zhipuai",
